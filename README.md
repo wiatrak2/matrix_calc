@@ -33,7 +33,7 @@ Diagram znajudje się także wśród plików programu.
 
 Dokumentacja
 -------
-Dokumentacja projektu znajduje się w sekcji **wiki** repozytorium `[link](https://github.com/wiatrak2/matrix_calc/wiki)`.
+Dokumentacja projektu znajduje się w sekcji **wiki** repozytorium [link](https://github.com/wiatrak2/matrix_calc/wiki).
 
 --------
 Wojciech Pratkowiecki
